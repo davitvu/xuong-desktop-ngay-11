@@ -1,0 +1,2 @@
+file is /usr/bin/file
+moi not found
